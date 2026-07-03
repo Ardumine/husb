@@ -1,0 +1,17 @@
+/home/ardumine/hort/husb/bin/Debug/net10.0/manifest.json
+/home/ardumine/hort/husb/bin/Debug/net10.0/mpd
+/home/ardumine/hort/husb/bin/Debug/net10.0/HCore.Packages.Usb.deps.json
+/home/ardumine/hort/husb/bin/Debug/net10.0/HCore.Packages.Usb.dll
+/home/ardumine/hort/husb/bin/Debug/net10.0/HCore.Packages.Usb.pdb
+/home/ardumine/hort/husb/bin/Debug/net10.0/HCore.Modules.Base.dll
+/home/ardumine/hort/husb/bin/Debug/net10.0/HCore.Modules.Base.pdb
+/home/ardumine/hort/husb/obj/Debug/net10.0/HCore.Packages.Usb.csproj.AssemblyReference.cache
+/home/ardumine/hort/husb/obj/Debug/net10.0/HCore.Packages.Usb.GeneratedMSBuildEditorConfig.editorconfig
+/home/ardumine/hort/husb/obj/Debug/net10.0/HCore.Packages.Usb.AssemblyInfoInputs.cache
+/home/ardumine/hort/husb/obj/Debug/net10.0/HCore.Packages.Usb.AssemblyInfo.cs
+/home/ardumine/hort/husb/obj/Debug/net10.0/HCore.Packages.Usb.csproj.CoreCompileInputs.cache
+/home/ardumine/hort/husb/obj/Debug/net10.0/HCore.Pa.88E49E44.Up2Date
+/home/ardumine/hort/husb/obj/Debug/net10.0/HCore.Packages.Usb.dll
+/home/ardumine/hort/husb/obj/Debug/net10.0/refint/HCore.Packages.Usb.dll
+/home/ardumine/hort/husb/obj/Debug/net10.0/HCore.Packages.Usb.pdb
+/home/ardumine/hort/husb/obj/Debug/net10.0/ref/HCore.Packages.Usb.dll

@@ -1,0 +1,12 @@
+{
+  "name": "HCore.Packages.Usb",
+  "version": "1.0.0",
+  "baseVersion": "1.0.0",
+  "description": "USB controller + device demo for HCore",
+  "provides": {
+    "modules": [
+      { "name": "HCore.Packages.Usb.Usb", "interface": "HCore.Packages.Usb.Usb.IUsb" },
+      { "name": "HCore.Packages.Usb.UsbDevice", "interface": "HCore.Modules.Base.IUsbDevice" }
+    ]
+  }
+}
